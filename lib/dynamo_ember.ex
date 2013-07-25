@@ -1,0 +1,2 @@
+defmodule DynamoEmber do
+end
